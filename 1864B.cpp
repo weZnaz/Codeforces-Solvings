@@ -43,10 +43,10 @@ else{
         cout<<even[i]<<odd[i];
     }
         cout<<even[x-1];
- 
+
    }
     cout<<endl;
 }
 }
- 
+
 }
